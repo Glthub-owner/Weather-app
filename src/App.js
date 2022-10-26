@@ -3,10 +3,6 @@ import Weather from "./components/weather";
 
 import "./styles/style.css";
 
-// baa74a0eb01a0da6f660540a080e6a41
-// e89d7579e6f61bf32b76413cac8a633a
-//e1fc50451c575aa36de0aa41a048c1f6
-// bf6d1378b295aa0a8dd29e3a6380755d
 
 function App() {
   const [selectedCity, setSelectedCity] = React.useState([]);
